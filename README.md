@@ -19,3 +19,5 @@ Technologies used:
 - CSS: Used for styling and layout, ensuring a visually appealing and responsive design.
 - JavaScript: Adding interactivity and dynamic elements, elevating user engagement and experience.
 - Bootstrap: Leveraging the power of this CSS framework to create a mobile-first, responsive design with pre-built components and utilities.
+
+...............................................................................................................................................................................
